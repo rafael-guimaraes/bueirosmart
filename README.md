@@ -630,3 +630,11 @@ Crítico
 
 e também exibir um valor numérico de risco em formato hexadecimal nos displays de 7 segmentos.
 
+---
+
+# Vídeos 
+
+[Pitch](https://drive.google.com/file/d/1qlts54Wto9xOksRW4SEw6Tn5oGyMypY7/view?usp=drive_link)
+[Demonstração Circuito](https://drive.google.com/file/d/1XpdQEDOZ9ht6GVskFGbUGisItyfHUSlv/view?usp=drive_link)
+
+
